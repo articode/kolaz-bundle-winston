@@ -16,7 +16,7 @@ npm install kolaz-bundle-winston
 
 ### Step 2: Enable
 ```ecmascript 6
-import { WinstonLogger } from "winston";
+import { WinstonLogger } from "kolaz-bundle-winston";
 
 export class App extends BaseKernel {
     registerBundles() {
