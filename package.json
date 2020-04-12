@@ -1,6 +1,6 @@
 {
     "name": "kolaz-bundle-winston",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "main": "src/index.js",
     "description": "Kolaz bundle provides Winston log service",
     "repository": {
