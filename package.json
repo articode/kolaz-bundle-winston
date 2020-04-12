@@ -1,0 +1,32 @@
+{
+    "name": "kolaz-bundle-winston",
+    "version": "0.0.0",
+    "main": "src/index.js",
+    "description": "Kolaz bundle provides Winston log service",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:articode/kolaz-bundle-winston.git"
+    },
+    "keywords": [
+        "nodejs",
+        "framework",
+        "kolaz",
+        "winston",
+        "logging"
+    ],
+    "author": "Igor Stojadinovic",
+    "license": "ISC",
+    "files": [
+        "/src"
+    ],
+    "bugs": {
+        "url": "https://github.com/articode/kolaz-bundle-winston/issues"
+    },
+    "homepage": "https://github.com/articode/kolaz-bundle-winston#readme",
+    "peerDependencies": {
+        "kolaz": "^0.1.1"
+    },
+    "dependencies": {
+        "winston": "^3.2.1"
+    }
+}
